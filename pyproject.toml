@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "readpy_P-Y-R-O-B-O-T"
-version = "1.0.2"
+version = "1.0.3"
 description = "A MINI AND EASY TO USE REDIS SERVER"
 readme = "README.md"
 authors = [{name =  "KUSHAL", email = "NONE@NONE.com"}]
